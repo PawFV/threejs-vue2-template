@@ -1,4 +1,4 @@
-import { Vue, Component } from 'vue-property-decorator'
+import { Component } from 'vue-property-decorator'
 import * as THREE from 'three'
 import Home from './root'
 
